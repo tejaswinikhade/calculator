@@ -1,1 +1,4 @@
 my new file2 
+some new text
+
+Added here
