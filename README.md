@@ -7,6 +7,8 @@ A very basic calculator application created using Java **Swing**.
 Please ⭐️ this repo and share it with others
 
 
+
+
 ## Screenshots
 |  
               Scientific / Dark                | Standard / Colored |
